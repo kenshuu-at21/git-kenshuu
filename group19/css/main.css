@@ -25,6 +25,9 @@ img {
 a {
 	text-decoration: none;
 }
+.hoge {
+	color: #000000;
+}
 
 /*header*/
 header {
